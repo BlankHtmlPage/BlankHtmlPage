@@ -26,3 +26,4 @@ Matrix: flurion:matrix.org
 ## Happy New Year!
 ## My 2025 Stats
 
+<img width="2800" height="4374" alt="My 2025 stats" src="https://github.com/user-attachments/assets/187472e6-ef78-4b0a-a366-efe292fbafd9" />
