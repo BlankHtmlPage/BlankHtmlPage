@@ -6,7 +6,6 @@
 ![Visual Studio Code user](https://img.shields.io/badge/visual%20studio%20code-user-blue?style=flat-square)
 ![Fedora user](https://img.shields.io/badge/fedora-user-blue?style=flat-square&logo=fedora)
 ![Windows user](https://img.shields.io/badge/windows-user-blue?style=flat-square)
-![MIT License is good](https://img.shields.io/badge/MIT%20license-is%20good-pink?style=flat-square)
 ![Proud to be Belarusian](https://img.shields.io/badge/belarusian-green?style=flat-square&label=proud%20to%20be&labelColor=red&color=green)
 
 
@@ -19,11 +18,11 @@ Browser: Ungoogled Chromium.
 Primary editor: Visual Studio Code.
 
 ### How to contact me?
-Discord: notflurion
+Discord: notflurion.
 Email: blankhtmlpager@gmail.com, flurion@tuta.io.
 Matrix: flurion:matrix.org
 
 ## Happy New Year!
 ## My 2025 Stats
 
-<img width="2800" height="4374" alt="My 2025 stats" src="https://github.com/user-attachments/assets/187472e6-ef78-4b0a-a366-efe292fbafd9" />
+<img width="2800" height="4374" alt="My 2025 stats (thanks githubwrapped.xyz)" src="https://github.com/user-attachments/assets/187472e6-ef78-4b0a-a366-efe292fbafd9" />
