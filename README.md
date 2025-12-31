@@ -17,6 +17,11 @@ My main OSes: Windows 11, Fedora 43.
 Browser: Ungoogled Chromium.
 Primary editor: Visual Studio Code.
 
+## Acknowledgements
+Avatar is inspired by [@AeEn123](https://github.com/AeEn123).
+Badges provided by [Shields.io](https://shields.io).
+GitHub stats provided by [GitHubWrapped.xyz](https://githubwrapped.xyz).
+
 ### How to contact me?
 Discord: notflurion.
 Email: blankhtmlpager@gmail.com, flurion@tuta.io.
