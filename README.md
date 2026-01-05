@@ -14,6 +14,11 @@
 ![Download my banner in SD](https://img.shields.io/badge/DOWNLOAD%20MY%20BANNER-SD%20QUALITY-red?style=for-the-badge&link=https%3A%2F%2Fflurion.qzz.io%2Fimages%2Fgithub_avatars%2Fblankhtml.page_BANNER_SD.png)
 
 
+![Contact with me on Signal](https://img.shields.io/badge/Contact%20with%20me-Signal-blue?style=flat-square&logo=signal&link=https%3A%2F%2Fsignal.me%2F%23eu%2FX2J7j078mhRpon4ByFSoCfpb8i5fo7mnfeBvNq1NUIyvomBzqpVLnor04C1xonsw)
+![Contact with me on Matrix](https://img.shields.io/badge/Contact%20with%20me-Matrix-white?style=flat-square&logo=matrix&link=https%3A%2F%2Fmatrix.to%2F%23%2F%40flurion%3Amatrix.org)
+
+
+
 ![Coded with love by BlankHtmlPage](https://img.shields.io/badge/%3C%2F%3E%20with%20%E2%99%A5%20by-BlankHtmlPage-red?style=flat-square)
 ![Python user](https://img.shields.io/badge/user-blue?style=flat-square&logo=python&label=python&labelColor=yellow&color=blue)
 ![Bash user](https://img.shields.io/badge/user-white?style=flat-square&logo=gnometerminal&label=bash&labelColor=black&color=white)
