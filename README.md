@@ -9,9 +9,9 @@
 ![Download my avatar in SD](https://img.shields.io/badge/DOWNLOAD%20MY%20AVATAR-SD%20QUALITY-red?style=for-the-badge&link=https%3A%2F%2Fflurion.qzz.io%2Fimages%2Fgithub_avatars%2Fblankhtml.page_SD.png)
 
 
-![Download my banner in original quality](https://img.shields.io/badge/DOWNLOAD%20MY%20AVATAR-ORIGINAL%20QUALITY-green?style=for-the-badge&link=https%3A%2F%2Fflurion.qzz.io%2Fimages%2Fgithub_avatars%2Fblankhtml.page_BANNER_ORIGINAL.png)
-![Download my banner in HD](https://img.shields.io/badge/DOWNLOAD%20MY%20AVATAR-HD%20QUALITY-orange?style=for-the-badge&link=https%3A%2F%2Fflurion.qzz.io%2Fimages%2Fgithub_avatars%2Fblankhtml.page_BANNER_HD.png)
-![Download my banner in SD](https://img.shields.io/badge/DOWNLOAD%20MY%20AVATAR-SD%20QUALITY-red?style=for-the-badge&link=https%3A%2F%2Fflurion.qzz.io%2Fimages%2Fgithub_avatars%2Fblankhtml.page_BANNER_SD.png)
+![Download my banner in original quality](https://img.shields.io/badge/DOWNLOAD%20MY%20BANNER-ORIGINAL%20QUALITY-green?style=for-the-badge&link=https%3A%2F%2Fflurion.qzz.io%2Fimages%2Fgithub_avatars%2Fblankhtml.page_BANNER_ORIGINAL.png)
+![Download my banner in HD](https://img.shields.io/badge/DOWNLOAD%20MY%20BANNER-HD%20QUALITY-orange?style=for-the-badge&link=https%3A%2F%2Fflurion.qzz.io%2Fimages%2Fgithub_avatars%2Fblankhtml.page_BANNER_HD.png)
+![Download my banner in SD](https://img.shields.io/badge/DOWNLOAD%20MY%20BANNER-SD%20QUALITY-red?style=for-the-badge&link=https%3A%2F%2Fflurion.qzz.io%2Fimages%2Fgithub_avatars%2Fblankhtml.page_BANNER_SD.png)
 
 
 ![Coded with love by BlankHtmlPage](https://img.shields.io/badge/%3C%2F%3E%20with%20%E2%99%A5%20by-BlankHtmlPage-red?style=flat-square)
