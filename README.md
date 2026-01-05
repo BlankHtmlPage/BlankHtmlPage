@@ -1,4 +1,11 @@
 ## Hi, I'm BlankHtmlPage!
+
+<img width="2160" height="1080" alt="My banner" src="https://github.com/user-attachments/assets/cf5b4b80-2c44-49d4-9846-7c63f3b6e6d1" />
+
+![Download my avatar in original quality](https://img.shields.io/badge/DOWNLOAD%20MY%20AVATAR-ORIGINAL%20QUALITY-green?style=for-the-badge&link=https%3A%2F%2Fflurion.qzz.io%2Fimages%2Fgithub_avatars%2Fblankhtml.page_ORIGINAL.png)
+![Download my avatar in HD](https://img.shields.io/badge/DOWNLOAD%20MY%20AVATAR-HD%20QUALITY-orange?style=for-the-badge&link=https%3A%2F%2Fflurion.qzz.io%2Fimages%2Fgithub_avatars%2Fblankhtml.page_HD.png)
+
+
 ![Coded with love by BlankHtmlPage](https://img.shields.io/badge/%3C%2F%3E%20with%20%E2%99%A5%20by-BlankHtmlPage-red?style=flat-square)
 ![Python user](https://img.shields.io/badge/user-blue?style=flat-square&logo=python&label=python&labelColor=yellow&color=blue)
 ![Bash user](https://img.shields.io/badge/user-white?style=flat-square&logo=gnometerminal&label=bash&labelColor=black&color=white)
