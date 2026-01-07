@@ -34,7 +34,6 @@
 
 ### Who am I?
 A programmer from a small European country, Belarus.
-I know **Python**, **Shell script language**, and **Rust**.
 My timezone: UTC+3.
 My main OSes: Windows 11, Fedora 43.
 Browser: Ungoogled Chromium.
