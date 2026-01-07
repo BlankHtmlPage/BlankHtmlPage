@@ -24,9 +24,6 @@
 
 
 ![Coded with love by BlankHtmlPage](https://img.shields.io/badge/%3C%2F%3E%20with%20%E2%99%A5%20by-BlankHtmlPage-red?style=flat-square)
-![Python user](https://img.shields.io/badge/user-blue?style=flat-square&logo=python&label=python&labelColor=yellow&color=blue)
-![Bash user](https://img.shields.io/badge/user-white?style=flat-square&logo=gnometerminal&label=bash&labelColor=black&color=white)
-![Rust user](https://img.shields.io/badge/user-white?style=flat-square&logo=rust&label=rust&labelColor=black&color=red)
 ![Visual Studio Code user](https://img.shields.io/badge/visual%20studio%20code-user-blue?style=flat-square)
 ![Fedora user](https://img.shields.io/badge/fedora-user-blue?style=flat-square&logo=fedora)
 ![Windows user](https://img.shields.io/badge/windows-user-blue?style=flat-square)
