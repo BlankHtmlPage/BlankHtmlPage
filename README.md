@@ -3,6 +3,8 @@
 
 <img width="2160" height="1080" alt="My banner" src="https://github.com/user-attachments/assets/cf5b4b80-2c44-49d4-9846-7c63f3b6e6d1" />
 
+<a href="https://flurion.qzz.io/images/github/blankhtml.page_BANNER_ORIGINAL.png">"blankhtml.page" banner</a> © 2026 by <a href="https://github.com/BlankHtmlPage">BlankHtmlPage</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+
 
 > [!WARNING]
 > **Official Accounts Notice:** The only official ways to contact me are via the Discord, email, Signal, or Matrix accounts specified in the ["Connect with me" section](#connect-with-me). Please be cautious of impersonators.
