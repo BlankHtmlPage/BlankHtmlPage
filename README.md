@@ -2,7 +2,6 @@
 
 
 <img width="2160" height="1080" alt="My banner" src="https://github.com/user-attachments/assets/cf5b4b80-2c44-49d4-9846-7c63f3b6e6d1" />
-
 <a href="https://flurion.qzz.io/images/github/blankhtml.page_BANNER_ORIGINAL.png">"blankhtml.page" banner</a> © 2026 by <a href="https://github.com/BlankHtmlPage">BlankHtmlPage</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 
 
@@ -15,14 +14,14 @@
 ![Connect with me on Discord](https://img.shields.io/badge/Connect%20with%20me-Discord-blue?style=flat-square&logo=discord&link=https%3A%2F%2Fdiscord.com%2Fusers%2F1276800726017904720)
 
 
-![Download my avatar in original quality](https://img.shields.io/badge/DOWNLOAD%20MY%20AVATAR-ORIGINAL%20QUALITY-green?style=for-the-badge&link=https%3A%2F%2Fflurion.qzz.io%2Fimages%2Fgithub_avatars%2Fblankhtml.page_ORIGINAL.png)
-![Download my avatar in HD](https://img.shields.io/badge/DOWNLOAD%20MY%20AVATAR-HD%20QUALITY-orange?style=for-the-badge&link=https%3A%2F%2Fflurion.qzz.io%2Fimages%2Fgithub_avatars%2Fblankhtml.page_HD.png)
-![Download my avatar in SD](https://img.shields.io/badge/DOWNLOAD%20MY%20AVATAR-SD%20QUALITY-red?style=for-the-badge&link=https%3A%2F%2Fflurion.qzz.io%2Fimages%2Fgithub_avatars%2Fblankhtml.page_SD.png)
+![Download my avatar in original quality](https://img.shields.io/badge/DOWNLOAD%20MY%20AVATAR-ORIGINAL%20QUALITY-green?style=for-the-badge&link=https%3A%2F%2Fflurion.qzz.io%2Fimages%2Fgithub%2Fblankhtml.page_ORIGINAL.png)
+![Download my avatar in HD](https://img.shields.io/badge/DOWNLOAD%20MY%20AVATAR-HD%20QUALITY-orange?style=for-the-badge&link=https%3A%2F%2Fflurion.qzz.io%2Fimages%2Fgithub%2Fblankhtml.page_HD.png)
+![Download my avatar in SD](https://img.shields.io/badge/DOWNLOAD%20MY%20AVATAR-SD%20QUALITY-red?style=for-the-badge&link=https%3A%2F%2Fflurion.qzz.io%2Fimages%2Fgithub%2Fblankhtml.page_SD.png)
 
 
-![Download my banner in original quality](https://img.shields.io/badge/DOWNLOAD%20MY%20BANNER-ORIGINAL%20QUALITY-green?style=for-the-badge&link=https%3A%2F%2Fflurion.qzz.io%2Fimages%2Fgithub_avatars%2Fblankhtml.page_BANNER_ORIGINAL.png)
-![Download my banner in HD](https://img.shields.io/badge/DOWNLOAD%20MY%20BANNER-HD%20QUALITY-orange?style=for-the-badge&link=https%3A%2F%2Fflurion.qzz.io%2Fimages%2Fgithub_avatars%2Fblankhtml.page_BANNER_HD.png)
-![Download my banner in SD](https://img.shields.io/badge/DOWNLOAD%20MY%20BANNER-SD%20QUALITY-red?style=for-the-badge&link=https%3A%2F%2Fflurion.qzz.io%2Fimages%2Fgithub_avatars%2Fblankhtml.page_BANNER_SD.png)
+![Download my banner in original quality](https://img.shields.io/badge/DOWNLOAD%20MY%20BANNER-ORIGINAL%20QUALITY-green?style=for-the-badge&link=https%3A%2F%2Fflurion.qzz.io%2Fimages%2Fgithub%2Fblankhtml.page_BANNER_ORIGINAL.png)
+![Download my banner in HD](https://img.shields.io/badge/DOWNLOAD%20MY%20BANNER-HD%20QUALITY-orange?style=for-the-badge&link=https%3A%2F%2Fflurion.qzz.io%2Fimages%2Fgithub%2Fblankhtml.page_BANNER_HD.png)
+![Download my banner in SD](https://img.shields.io/badge/DOWNLOAD%20MY%20BANNER-SD%20QUALITY-red?style=for-the-badge&link=https%3A%2F%2Fflurion.qzz.io%2Fimages%2Fgithub%2Fblankhtml.page_BANNER_SD.png)
 
 
 ![Coded with love by BlankHtmlPage](https://img.shields.io/badge/%3C%2F%3E%20with%20%E2%99%A5%20by-BlankHtmlPage-red?style=flat-square)
@@ -41,6 +40,7 @@ Primary editor: Visual Studio Code.
 ## Acknowledgements
 Avatar is inspired by [@AeEn123](https://github.com/AeEn123).
 Badges provided by [Shields.io](https://shields.io).
+Image license by [Creative Commons](https://creativecommons.org).
 GitHub stats provided by [GitHubWrapped.xyz](https://githubwrapped.xyz).
 
 ## Connect with me
