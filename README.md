@@ -48,9 +48,3 @@ Discord: notflurion.
 Email: blankhtmlpager@gmail.com, flurion@tuta.io.
 Matrix: flurion:matrix.org.
 Signal: flurion.49.
-
-## Happy New Year!
-## My 2025 Stats
-### Will be removed on January 15
-
-<img width="2800" height="4374" alt="My 2025 stats (thanks githubwrapped.xyz)" src="https://github.com/user-attachments/assets/187472e6-ef78-4b0a-a366-efe292fbafd9" />
