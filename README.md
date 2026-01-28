@@ -33,7 +33,7 @@
 ### Who am I?
 A programmer from a small European country, Belarus.
 My timezone: UTC+3.
-My main OSes: Windows 11, Fedora 43.
+My main OSes: Windows 11, Arch Linux.
 Browser: Ungoogled Chromium.
 Primary editor: Visual Studio Code.
 
