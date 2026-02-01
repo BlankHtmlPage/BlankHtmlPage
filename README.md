@@ -25,7 +25,7 @@
 
 ![Coded with love by BlankHtmlPage](https://img.shields.io/badge/%3C%2F%3E%20with%20%E2%99%A5%20by-BlankHtmlPage-red?style=flat-square)
 ![Visual Studio Code user](https://img.shields.io/badge/visual%20studio%20code-user-blue?style=flat-square)
-![Fedora user](https://img.shields.io/badge/fedora-user-blue?style=flat-square&logo=fedora)
+![Arch Linux user](https://img.shields.io/badge/arch%20linux-user-blue?style=flat-square&logo=archlinux)
 ![Windows user](https://img.shields.io/badge/windows-user-blue?style=flat-square)
 
 
