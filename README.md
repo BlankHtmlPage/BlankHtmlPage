@@ -9,8 +9,9 @@
 > **Official Accounts Notice:** The only official ways to contact me are via the Discord, email, Signal, or Matrix accounts specified in the ["Connect with me" section](#connect-with-me). Please be cautious of impersonators.
 
 
+![Connect with me on Signal](https://img.shields.io/badge/Connect%20with%20me-Signal-blue?style=flat-square&logo=signal&link=https%3A%2F%2Fsignal.me%2F%23eu%2FuAYNRMp-m7pjGdjplHtSNk4epyLPUHqn_vGdhALz_sPKRu1ItJ9CPZFG7ktXabwZ)
 ![Connect with me on Matrix](https://img.shields.io/badge/Connect%20with%20me-Matrix-white?style=flat-square&logo=matrix&link=https%3A%2F%2Fmatrix.to%2F%23%2F%40flurion%3Amatrix.org)
-![Connect with me on Discord](https://img.shields.io/badge/Connect%20with%20me-Discord-blue?style=flat-square&logo=discord&link=https%3A%2F%2Fdiscord.com%2Fusers%2F1276800726017904720)
+![Connect with me on Discord](https://img.shields.io/badge/Connect%20with%20me-Discord-darkblue?style=flat-square&logo=discord&link=https%3A%2F%2Fdiscord.com%2Fusers%2F1276800726017904720)
 
 
 ![Download my avatar in original quality](https://img.shields.io/badge/DOWNLOAD%20MY%20AVATAR-ORIGINAL%20QUALITY-green?style=for-the-badge&link=https%3A%2F%2Fflurion.qzz.io%2Fimages%2Fgithub%2Fblankhtml.page_ORIGINAL.png)
