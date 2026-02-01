@@ -41,10 +41,9 @@ Primary editor: Visual Studio Code.
 Avatar is inspired by [@AeEn123](https://github.com/AeEn123).
 Badges provided by [Shields.io](https://shields.io).
 Image license by [Creative Commons](https://creativecommons.org).
-GitHub stats provided by [GitHubWrapped.xyz](https://githubwrapped.xyz).
 
 ## Connect with me
-Discord: notflurion.
-Email: blankhtmlpager@gmail.com, flurion@tuta.io.
-Matrix: flurion:matrix.org.
-Signal: blankhtmlpage.28.
+Discord: blankhtml.page.
+Email: flurion@tuta.io.
+Matrix: @flurion:matrix.org.
+Signal: @blankhtmlpage.28.
