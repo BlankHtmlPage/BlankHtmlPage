@@ -9,7 +9,6 @@
 > **Official Accounts Notice:** The only official ways to contact me are via the Discord, email, Signal, or Matrix accounts specified in the ["Connect with me" section](#connect-with-me). Please be cautious of impersonators.
 
 
-![Connect with me on Signal](https://img.shields.io/badge/Connect%20with%20me-Signal-blue?style=flat-square&logo=signal&link=https%3A%2F%2Fsignal.me%2F%23eu%2FX2J7j078mhRpon4ByFSoCfpb8i5fo7mnfeBvnq1nuiyvombzqpvlnor04c1xonsw)
 ![Connect with me on Matrix](https://img.shields.io/badge/Connect%20with%20me-Matrix-white?style=flat-square&logo=matrix&link=https%3A%2F%2Fmatrix.to%2F%23%2F%40flurion%3Amatrix.org)
 ![Connect with me on Discord](https://img.shields.io/badge/Connect%20with%20me-Discord-blue?style=flat-square&logo=discord&link=https%3A%2F%2Fdiscord.com%2Fusers%2F1276800726017904720)
 
@@ -34,7 +33,7 @@
 A programmer from a small European country, Belarus.
 My timezone: UTC+3.
 My main OSes: Windows 11, Arch Linux.
-Browser: Ungoogled Chromium.
+Browser: Brave.
 Primary editor: Visual Studio Code.
 
 ## Acknowledgements
@@ -47,4 +46,4 @@ GitHub stats provided by [GitHubWrapped.xyz](https://githubwrapped.xyz).
 Discord: notflurion.
 Email: blankhtmlpager@gmail.com, flurion@tuta.io.
 Matrix: flurion:matrix.org.
-Signal: flurion.49.
+Signal: blankhtmlpage.28.
