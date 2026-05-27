@@ -1,26 +1,9 @@
 ## Hi, I'm BlankHtmlPage!
 
 <img width="2160" height="1080" alt="My banner" src="https://github.com/user-attachments/assets/cf5b4b80-2c44-49d4-9846-7c63f3b6e6d1" />
-<a href="https://flurion.qzz.io/images/github/blankhtml.page_BANNER_ORIGINAL.png">"blankhtml.page" banner</a> © 2026 by <a href="https://github.com/BlankHtmlPage">BlankHtmlPage</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a>
 
 > [!WARNING]
-> **Official Accounts Notice:** The only official ways to contact me are via the Discord, email, Signal, or Matrix accounts specified in the ["Connect with me" section](#connect-with-me). Please be cautious of impersonators.
-
-
-![Connect with me on Signal](https://img.shields.io/badge/Connect%20with%20me-Signal-blue?style=flat-square&logo=signal&link=https%3A%2F%2Fsignal.me%2F%23eu%2FuAYNRMp-m7pjGdjplHtSNk4epyLPUHqn_vGdhALz_sPKRu1ItJ9CPZFG7ktXabwZ)
-![Connect with me on Matrix](https://img.shields.io/badge/Connect%20with%20me-Matrix-white?style=flat-square&logo=matrix&link=https%3A%2F%2Fmatrix.to%2F%23%2F%40flurion%3Amatrix.org)
-![Connect with me on Discord](https://img.shields.io/badge/Connect%20with%20me-Discord-darkblue?style=flat-square&logo=discord&link=https%3A%2F%2Fdiscord.com%2Fusers%2F1276800726017904720)
-
-
-![Download my avatar in original quality](https://img.shields.io/badge/DOWNLOAD%20MY%20AVATAR-ORIGINAL%20QUALITY-green?style=for-the-badge&link=https%3A%2F%2Fflurion.qzz.io%2Fimages%2Fgithub%2Fblankhtml.page_ORIGINAL.png)
-![Download my avatar in HD](https://img.shields.io/badge/DOWNLOAD%20MY%20AVATAR-HD%20QUALITY-orange?style=for-the-badge&link=https%3A%2F%2Fflurion.qzz.io%2Fimages%2Fgithub%2Fblankhtml.page_HD.png)
-![Download my avatar in SD](https://img.shields.io/badge/DOWNLOAD%20MY%20AVATAR-SD%20QUALITY-red?style=for-the-badge&link=https%3A%2F%2Fflurion.qzz.io%2Fimages%2Fgithub%2Fblankhtml.page_SD.png)
-
-
-![Download my banner in original quality](https://img.shields.io/badge/DOWNLOAD%20MY%20BANNER-ORIGINAL%20QUALITY-green?style=for-the-badge&link=https%3A%2F%2Fflurion.qzz.io%2Fimages%2Fgithub%2Fblankhtml.page_BANNER_ORIGINAL.png)
-![Download my banner in HD](https://img.shields.io/badge/DOWNLOAD%20MY%20BANNER-HD%20QUALITY-orange?style=for-the-badge&link=https%3A%2F%2Fflurion.qzz.io%2Fimages%2Fgithub%2Fblankhtml.page_BANNER_HD.png)
-![Download my banner in SD](https://img.shields.io/badge/DOWNLOAD%20MY%20BANNER-SD%20QUALITY-red?style=for-the-badge&link=https%3A%2F%2Fflurion.qzz.io%2Fimages%2Fgithub%2Fblankhtml.page_BANNER_SD.png)
-
+> **Official Accounts Notice:** The only official ways to contact me are via the Discord, email, Signal, or Matrix accounts specified in the ["Connect with me" section](#connect-with-me). Please be cautious of impersonators!
 
 ![Coded with love by BlankHtmlPage](https://img.shields.io/badge/%3C%2F%3E%20with%20%E2%99%A5%20by-BlankHtmlPage-red?style=flat-square)
 ![Arch Linux user](https://img.shields.io/badge/arch%20linux-user-blue?style=flat-square&logo=archlinux)
