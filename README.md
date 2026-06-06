@@ -1,7 +1,5 @@
 ## Hi, I'm BlankHtmlPage!
 
-<img width="2160" height="1080" alt="My banner" src="https://github.com/user-attachments/assets/cf5b4b80-2c44-49d4-9846-7c63f3b6e6d1" />
-
 > [!WARNING]
 > **Official Accounts Notice:** The only official ways to contact me are via the Discord, email, Signal, or Matrix accounts specified in the ["Connect with me" section](#connect-with-me). Please be cautious of impersonators!
 
