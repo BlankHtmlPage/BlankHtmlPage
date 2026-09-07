@@ -9,17 +9,16 @@ turn out to be useful to someone else.
 
 ## public projects
 
-- [open-terminal-mcp](https://github.com/BlankHtmlPage/open-terminal-mcp) —
+- [open-terminal-mcp](https://github.com/BlankHtmlPage/open-terminal-mcp):
   TypeScript. an MCP server that exposes a containerised Open Terminal shell as
   17 tools over streamable HTTP, with bearer auth. it holds no shell itself and
   forwards every command upstream. v1.0.0.
-- [soblox-rpc](https://github.com/BlankHtmlPage/soblox-rpc) — Rust. a CLI that
+- [soblox-rpc](https://github.com/BlankHtmlPage/soblox-rpc): Rust. a CLI that
   shows the Roblox game you are playing as Discord rich presence, through your
   own Discord application id. v1.0.0.
 
 two of them, both MIT. i've also had a handful of patches merged into
-[RoExtract](https://github.com/AeEn123/RoExtract) — an empty-state screen,
-localization, docs.
+[RoExtract](https://github.com/AeEn123/RoExtract).
 
 ## elsewhere
 
