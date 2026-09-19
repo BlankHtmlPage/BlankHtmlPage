@@ -2,9 +2,9 @@
 
 i take software apart until it explains itself.
 
-self-taught. mostly TypeScript, Rust and shell. i run the servers my own things
+self-taught. mostly TypeScript, Python, Rust and shell. i run the servers my own things
 live on, which is where most of what i know about nginx, systemd and containers
-came from. tools get written for me first and put online under MIT when they
+came from. tools get written for me first and put online when they
 turn out to be useful to someone else.
 
 ## public projects
