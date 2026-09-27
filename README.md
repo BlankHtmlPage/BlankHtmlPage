@@ -2,24 +2,24 @@
 
 i take software apart until it explains itself.
 
-self-taught. mostly TypeScript, Rust and shell. i run the servers my own things
+self-taught. mostly TypeScript, Python, Rust and shell. i run the servers my own things
 live on, which is where most of what i know about nginx, systemd and containers
-came from. tools get written for me first and put online under MIT when they
+came from. tools get written for me first and put online when they
 turn out to be useful to someone else.
 
 ## public projects
 
-- [open-terminal-mcp](https://github.com/BlankHtmlPage/open-terminal-mcp) —
-  TypeScript. an MCP server that exposes a containerised Open Terminal shell as
-  17 tools over streamable HTTP, with bearer auth. it holds no shell itself and
-  forwards every command upstream. v1.0.0.
-- [soblox-rpc](https://github.com/BlankHtmlPage/soblox-rpc) — Rust. a CLI that
+- [soblox-rpc](https://github.com/BlankHtmlPage/soblox-rpc): Rust. a CLI that
   shows the Roblox game you are playing as Discord rich presence, through your
-  own Discord application id. v1.0.0.
+  own Discord application id. v1.0.0, MIT.
 
-two of them, both MIT. i've also had a handful of patches merged into
-[RoExtract](https://github.com/AeEn123/RoExtract) — an empty-state screen,
-localization, docs.
+i've also had a handful of patches merged into
+[RoExtract](https://github.com/AeEn123/RoExtract).
+
+not everything i build goes online. open-terminal-mcp — TypeScript, v1.0.0 —
+stays private: an MCP server that exposes a containerised Open Terminal shell
+as 17 tools over streamable HTTP, with bearer auth. it holds no shell itself
+and forwards every command upstream.
 
 ## elsewhere
 
