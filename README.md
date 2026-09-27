@@ -16,9 +16,9 @@ turn out to be useful to someone else.
 i've also had a handful of patches merged into
 [RoExtract](https://github.com/AeEn123/RoExtract).
 
-not everything i build goes online. open-terminal-mcp — TypeScript, v1.0.0 —
-stays private: an MCP server that exposes a containerised Open Terminal shell
-as 17 tools over streamable HTTP, with bearer auth. it holds no shell itself
+not everything i build goes online. open-terminal-mcp stays private (TypeScript,
+v1.0.0): an MCP server that exposes a containerised Open Terminal shell as
+17 tools over streamable HTTP, with bearer auth. it holds no shell itself
 and forwards every command upstream.
 
 ## elsewhere
