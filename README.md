@@ -18,8 +18,8 @@ i've also had a handful of patches merged into
 
 ## elsewhere
 
-[bhp.qzz.io](https://bhp.qzz.io/) has the writing, the projects in more detail,
+[blankhtmlpage.bond](https://blankhtmlpage.bond/) has the writing, the projects in more detail,
 and a contact section. i'm slow to reply, but i'll get back to you.
 
-if you want to [chip in](https://bhp.qzz.io/donate/), it keeps the server and
+if you want to [chip in](https://blankhtmlpage.bond/donate/), it keeps the server and
 the tooling running.
